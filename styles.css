@@ -1,0 +1,233 @@
+.Title{
+    position: absolute;
+    left: 400px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Search{
+    position:absolute;
+    left: 670px;
+    top: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+
+.Inspiration{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position:absolute;
+    left: 200px;
+    top: 200px;
+}
+
+.image1{
+    background-image: url('https://b.zmtcdn.com/data/o2_assets/dff007e05e2f72a4abc0772c7a8cd0951632716697.png');
+    width: 200px;
+    height: 200px;
+    background-size: 100% 100%;
+    position: absolute;
+    top: 280px;
+    left: 200px;
+}
+.image1:hover{
+    border: solid 2px;
+}
+.image2{
+    background-image: url('https://b.zmtcdn.com/data/o2_assets/d0bd7c9405ac87f6aa65e31fe55800941632716575.png');
+    width: 200px;
+    height: 200px;
+    background-size: 100% 100%;
+    position: absolute;
+    top: 280px;
+    left: 450px;
+}
+.image2:hover{
+    border: solid 2px;
+}
+.image3{
+    background-image: url('https://b.zmtcdn.com/data/o2_assets/e61347d2b01cfae669530bd4b8e778e41632716577.png');
+    width: 200px;
+    height: 200px;
+    background-size: 100% 100%;
+    position: absolute;
+    top: 280px;
+    left: 690px;
+}
+.image3:hover{
+    border: solid 2px;
+}
+.image4{
+    background-image: url('https://b.zmtcdn.com/data/o2_assets/b78083afb63995c7e0a676d01dcc164d1632716549.png');
+    width: 200px;
+    height: 200px;
+    background-size: 100% 100%;
+    position: absolute;
+    top: 280px;
+    left: 920px;
+}
+.image4:hover{
+    border: solid 2px;
+}
+.imageName1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    position: absolute;
+    top: 480px;
+    left: 200px;
+}
+.imageName2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    position: absolute;
+    top: 480px;
+    left: 450px;
+}
+.imageName3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    position: absolute;
+    top: 480px;
+    left: 690px;
+}
+.imageName4{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    position: absolute;
+    top: 480px;
+    left:920px;
+}
+
+.TopBrands{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    top: 580px;
+    left: 200px;
+}
+.Brand1{
+    background-image: url('macD.jpg');
+    width: 150px;
+    height: 150px;
+    background-size: 100% 100%;
+    position: absolute;
+    top: 680px;
+    left: 200px;
+}
+.Brand1:hover{
+    border:  solid 2px;
+}
+.Brand2{
+    background-image: url('https://b.zmtcdn.com/data/brand_creatives/logos/1a985408ca7ad8fd097f2c47db9c5cb6_1611252699.png?output-format=webp');
+    width: 150px;
+    height: 150px;
+    background-size: 100% 100%;
+    position: absolute;
+    top: 680px;
+    left: 400px;
+}
+.Brand2:hover{
+    border:  solid 2px;
+}
+.Brand3{
+    background-image: url('https://b.zmtcdn.com/data/brand_creatives/logos/466f8fc74274145f3b21795c3d21816d_1589433692.png?output-format=webp');
+    width: 150px;
+    height: 150px;
+    background-size: 100% 100%;
+    position: absolute;
+    top: 680px;
+    left: 580px;
+}
+.Brand3:hover{
+    border:  solid 2px;
+}
+.Brand4{
+    background-image: url("https://b.zmtcdn.com/data/brand_creatives/logos/22529ff52d41a4aa3b36ac1e7e0c0db3_1605099406.png?output-format=webp");
+    width: 150px;
+    height: 150px;
+    background-size: 100% 100%;
+    position: absolute;
+    top: 680px;
+    left: 750px;
+}
+.Brand4:hover{
+    border:  solid 2px;
+}
+.Brand5{
+    background-image: url("https://b.zmtcdn.com/data/brand_creatives/logos/1356425eff0c9acd8ab6b0ad351759e4_1611253489.png?output-format=webp");
+    width: 150px;
+    height: 150px;
+    background-size: 100% 100%;
+    position: absolute;
+    top: 680px;
+    left: 950px;
+}
+.Brand5:hover{
+    border:  solid 2px;
+}
+.Brand6{
+    background-image: url("https://b.zmtcdn.com/data/brand_creatives/logos/4bf3cd23b591c0292aba5fe476fadbef_1625160389.png?output-format=webp");
+    width: 150px;
+    height: 150px;
+    background-size: 100% 100%;
+    position: absolute;
+    top: 680px;
+    left: 1150px;
+}
+.Brand6:hover{
+    border:  solid 2px;
+}
+
+.bestFoodInDelhiNCR{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    top: 850px;
+    left: 200px;
+}
+
+/********************************************************CARDS**********************************************************/
+.main{
+    position: absolute;
+    left: 200px;
+    top: 950px;
+}
+.container{
+    display: inline-block;
+    margin: 30px;
+    border:  solid 2px;
+    width: 300px;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 2px 2px 10px black;
+}
+.container:hover{
+    border: solid 3px;
+}
+.container img{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    background-size: 100% 100%;
+}
+.container img:hover{
+    border: solid 3px;
+}
+.des{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    text-align: center;
+}
+button{
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+button:hover{
+    background-color: cornflowerblue;
+    color: aliceblue;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+/***********************************************CARD2******************************************************/
+.main1{
+    position: absolute;
+    left: 200px;
+    top: 1950px;
+}
